@@ -5,6 +5,8 @@ TagManager:
   serializedVersion: 2
   tags:
   - SpotLight
+  - End
+  - ShowOnPause
   layers:
   - Default
   - TransparentFX
